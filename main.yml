@@ -8,7 +8,7 @@
         username: "admin"
         password: "{{ sat6_password }}"
         server_url: "{{ sat6_url }}"
-        name: "new_host"
+        name: "newhost.rock.lab"
         hostgroup: "Test Hosts"
         build: true
         state: present
