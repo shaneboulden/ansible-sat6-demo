@@ -19,5 +19,5 @@
         provision_method: image
         image: "Red Hat 8.3 KVM"
         compute_resource: "Rock Lab KVM Hypervisor"
-        location: Default
-        organization: Default
+        location: "Default Location"
+        organization: "Default Organization"
