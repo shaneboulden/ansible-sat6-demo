@@ -16,3 +16,8 @@
           cpus: 1
           memory_mb: 2048
           start: "1"
+        provision_method: image
+        image: "Red Hat 8.3 KVM"
+        compute_resource: "Rock Lab KVM Hypervisor"
+        location: Default
+        Organization: Default
