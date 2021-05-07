@@ -23,6 +23,7 @@
         organization: "Default Organization"
         interfaces_attributes:
           - name: "newhost"
+            type: "interface"
             primary: yes
             managed: yes
             provision: yes
