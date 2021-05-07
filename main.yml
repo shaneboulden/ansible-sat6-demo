@@ -22,10 +22,10 @@
         location: "Default Location"
         organization: "Default Organization"
         interfaces_attributes:
-          name: "newhost"
-          primary: yes
-          managed: yes
-          provision: yes
-          domain: "rock.lab"
-          virtual: no
-          subnet: "Libvirt subnet"
+          - name: "newhost"
+            primary: yes
+            managed: yes
+            provision: yes
+            domain: "rock.lab"
+            virtual: no
+            subnet: "Libvirt subnet"
